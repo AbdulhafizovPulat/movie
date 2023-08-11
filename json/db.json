@@ -1,0 +1,42 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/1.png",
+      "altImg": "vegy",
+      "title": "Usual",
+      "text": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Fugit nesciunt facere, sequi exercitationem praesentium ab cupiditate beatae debitis perspiciatis itaque quaerat id modi corporis delectus ratione nobis harum voluptatum in.",
+      "price": 10
+    },
+    {
+      "img": "img/tabs/2.jpg",
+      "altImg": "elite",
+      "title": "Premium",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque aliquid molestiae, sit eveniet, tempora ipsum quaerat recusandae sapiente doloremque corporis dolores quas consectetur ut labore distinctio libero reiciendis harum sequi?",
+      "price": 15
+    },
+    {
+      "img": "img/tabs/3.jpg",
+      "altImg": "post",
+      "title": "VIP",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus natus nobis minus corporis atque enim vitae, modi eligendi commodi itaque voluptatum ipsum. Nemo reiciendis, id rem dolorum rerum consequuntur eos.",
+      "price": 20
+    }
+  ],
+  "request": [
+    {
+      "name": "Pulat Abdulkhafizov Abrorovich",
+      "phone": "+998 90 022 44 52",
+      "id": 1
+    },
+    {
+      "name": "Javlon",
+      "phone": "+998 90 905 53 15",
+      "id": 2
+    },
+    {
+      "name": "Pulat Abdulkhafizov Abrorovich",
+      "phone": "+998 90 022 44 52",
+      "id": 3
+    }
+  ]
+}
